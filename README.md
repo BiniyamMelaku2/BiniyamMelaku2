@@ -23,10 +23,14 @@ I am a Software developer enthusiast using tools Python, Javascript and C.  🙏
 
 <br>
 
+[Certified in cloud technology](https://www.credly.com/users/biniyam-melaku)
+
 ## My GitHub stats:
 
 ![](https://github.com/biniyammelaku2/github-stats/blob/master/generated/overview.svg)
 
 ![](https://github.com/biniyammelaku2/github-stats/blob/master/generated/languages.svg)
 
-[Certified in cloud technology](https://www.credly.com/users/biniyam-melaku)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
