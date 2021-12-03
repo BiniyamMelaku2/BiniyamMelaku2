@@ -24,17 +24,11 @@ I am a Software Developer Enthusiast using tools Python, Javascript and C.
 
 <br>
 
-## Certifications 
-
-https://www.credly.com/users/biniyam-melaku
-
-<br>
-
-<br>
-
 ## My GitHub stats:
 
 ![](https://github.com/biniyammelaku2/github-stats/blob/master/generated/overview.svg)
 
 ![](https://github.com/biniyammelaku2/github-stats/blob/master/generated/languages.svg)
 
+## Certified in cloud technologies 
+> https://www.credly.com/users/biniyam-melaku
