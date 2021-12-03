@@ -7,7 +7,7 @@ I am a Software developer enthusiast using tools Python, Javascript and C.  🙏
 
 ## More about me:
 - 🔭 I’m currently practicing Software engineering
-- 🌱 I’m currently learning back-end development
+- 🌱 I’m learning back-end development
 - 👯 I'm looking to collaborate in Web development and Data Science projects.
 - ⛑️ I could help you! I have a diverse background in Electrical and Mechanical. 
 
