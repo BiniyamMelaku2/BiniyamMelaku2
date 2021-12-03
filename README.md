@@ -1,11 +1,12 @@
 # Hi everyone!  I'm Biniyam Melaku  👋 
 
-[1-linkedin](https://www.linkedin.com/in/biniyammelaku/)
-[2-twitter](https://twitter.com/biniyammelaku2)
+- [linkedin](https://www.linkedin.com/in/biniyammelaku/)
+
+- [twitter](https://twitter.com/biniyammelaku2)
 
 
 I am a Software developer enthusiast using tools Python, Javascript and C.
-          🙏️
+   -       🙏️
 ## More about me:
 - 🔭 I’m currently practicing Software engineering
 - 🌱 I’m currently learning back-end development
