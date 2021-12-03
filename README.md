@@ -9,7 +9,7 @@ I am a Software developer enthusiast using tools Python, Javascript and C.  🙏
 - 🔭 I’m currently practicing Software engineering
 - 🌱 I’m learning back-end development
 - 👯 I'm looking to collaborate in Web development and Data Science projects.
-- ⛑️ I could help you! I have a diverse background in Electrical and Mechanical. 
+- ⛑️ I have a diverse background in Electrical and Mechanical. 
 
 ## Technologies I know:
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
