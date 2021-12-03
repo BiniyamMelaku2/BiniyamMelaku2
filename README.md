@@ -23,7 +23,7 @@ I am a Software developer enthusiast using tools Python, Javascript and C.  🙏
 
 <br/>
 
-> [Certified in cloud technology](https://www.credly.com/users/biniyam-melaku)
+## [Certified in cloud technology](https://www.credly.com/users/biniyam-melaku)
 
 ## My GitHub stats:
 
