@@ -30,4 +30,4 @@ I am a Software Developer Enthusiast using tools Python, Javascript and C.
 
 ![](https://github.com/biniyammelaku2/github-stats/blob/master/generated/languages.svg)
 
-![]Certified in cloud technology(https://www.credly.com/users/biniyam-melaku)
+[Certified in cloud technology](https://www.credly.com/users/biniyam-melaku)
