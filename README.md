@@ -1,6 +1,6 @@
 # Hi everyone!  I'm Biniyam Melaku  👋 
 
-[linkedin](https://www.linkedin.com/in/biniyammelaku/)  |
+[LinkedIn](https://www.linkedin.com/in/biniyammelaku/)  |
 [𝕏](https://twitter.com/Biniyam_Melaku2)
 
 
