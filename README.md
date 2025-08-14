@@ -1,6 +1,6 @@
 # Hi everyone!  I'm Biniyam Melaku  👋 
 
-[linkedin](https://www.linkedin.com/in/biniyammelaku/)  | [twitter](https://twitter.com/Biniyam_Melaku2)
+[linkedin](https://www.linkedin.com/in/biniyammelaku/)  | [X](https://twitter.com/Biniyam_Melaku2)
 
 
 I am a Software developer enthusiast using tools Python, Javascript and C.  🙏️
